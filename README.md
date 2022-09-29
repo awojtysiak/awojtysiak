@@ -38,8 +38,12 @@
 
 ## ✨ Soft Skills
 
-- Creativity
 - Commitment
+- Creativity
+- Curiosity
+- Openess
+- Teamwork
+
 
 ## 🧑‍🎓 Education
 
