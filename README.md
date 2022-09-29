@@ -41,7 +41,7 @@
 - Commitment
 - Creativity
 - Curiosity
-- Openess
+- Openness
 - Teamwork
 
 
