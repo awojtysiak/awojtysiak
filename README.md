@@ -30,8 +30,8 @@
 
 ## 📚 Technical Books
 
-- [ ] [Karolina Pawłowska, Natalia Pawlak: Podróże przez świat testowania](https://www.funwithbugs.com/store/produkt/podroz-przez-swiat-testowania-miekka-okladka/)
-- [ ] 60% | [Adam Roman, Lucjan Stapp: Certyfikowany tester ISTQB](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/e)
+- [x] [Karolina Pawłowska, Natalia Pawlak: Podróże przez świat testowania](https://www.funwithbugs.com/store/produkt/podroz-przez-swiat-testowania-miekka-okladka/)
+- [x] [Adam Roman, Lucjan Stapp: Certyfikowany tester ISTQB](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/e)
 - [x] [Radosław Smilgin: Zawód tester](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
 - [ ] [Radosław Smilgin: Praktyka testowania](https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html)
 - [x] [Ben Forta: SQL w mgnieniu oka (eng. SQL in 10 Minutes, Sams Teach Yourself)](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-iv-ben-forta,sqldko.htm#format/e)
