@@ -27,6 +27,8 @@
 - [x] Udemy: [Praktyczny kurs testowania oprogramowania (eng. Practical Software Testing)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
 - [x] INCO Academy bootcamp: [SprintED - become a tester!](https://www.incopolska.org/zostan-testerka)
 - [x] INCO Academy training: [Get Into Tech](https://www.incopolska.org/get-into-tech)
+- [x] CODE:ME Tydzień programisty 2022: wykład ["Testowanie oprogramowania - od czego zacząć?"](https://tydzienprogramisty.pl/)
+- [x] CODE:ME Tydzień programisty 2022: warsztat ["Wstęp do baz danych w SQL"](https://tydzienprogramisty.pl/)
 
 ## 📚 Technical Books
 
