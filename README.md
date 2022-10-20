@@ -49,8 +49,8 @@
 
 ## 🧑‍🎓 Education
 
-- [x] **UX Design** Graduate
-- [x] **Mediation** Graduate
+- [x] **UX Design** Graduate from [SWPS University of Social Sciences and Humanities](https://swps.pl/), Wrocław.
+- [x] **Mediation** Graduate from [Jagiellonian University](https://en.uj.edu.pl/), Kraków.
 
 ## Socials
 
