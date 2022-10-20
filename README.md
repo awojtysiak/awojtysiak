@@ -1,5 +1,5 @@
 # 👋, I am Aleksandra Wojtysiak.
-> Marketing Automation Specialist and Copywriter on her way to the IT industry.
+> Marketing Automation Specialist (**2 years exp. in a product team**) and Copywriter (own company) on her way to becoming a **Quality Assurance expert**.
 
 ## About Me
 - 📍 Based in **Gdańsk, PL**.
@@ -58,5 +58,3 @@
 - [Personal Blog](https://kulturalna-ola.pl/)
 - [Professional Page](https://www.wojtysiak.art/)
 
-### My GitHub Stats
-![Aleksandra Wojtysiak GitHub stats](https://github-readme-stats.vercel.app/api?username=awojtysiak&count_private=true&show_icons=true&theme=github&hide_title=true)
