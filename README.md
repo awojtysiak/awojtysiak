@@ -8,8 +8,8 @@
 
 
 ## Certificates 📜
-- [x] Professional Scrum Master I (**PSM I**) Certified
-- [x] ISTQB Foundation Level
+- [x] Professional Scrum Master I (**PSM I**)
+- [x] ISTQB Foundation Level (**ISTQB FL**)
 
 ## Tech Toolbox 🧰
 * Databases: MySQL
