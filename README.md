@@ -41,7 +41,7 @@
 ## Soft Skills ✨
 
 - Commitment to excellence
-- High Responsibility
+- High sense of Responsibility
 - Creativity
 - Teamwork
 
