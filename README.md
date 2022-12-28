@@ -9,7 +9,7 @@
 
 ## Certificates 📜
 - [x] Professional Scrum Master I (**PSM I**) Certified
-- [ ] ISTQB Foundation Level (in 2023)
+- [x] ISTQB Foundation Level
 
 ## Tech Toolbox 🧰
 * Databases: MySQL
@@ -21,10 +21,10 @@
 
 ## MOOCs / Courses / Trainings 🎓
 
-- [x] Udemy: [Podstawy **manualnego testowania** oprogramowania (eng. Manual Testing Foundations)](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
-- [x] Udemy: [Kurs SQL od podstaw | **MySQL** (eng. SQL Foundations: MySQL)](https://www.udemy.com/course/kurs-sql-od-podstaw/)
-- [x] Udemy: [Postman od podstaw - testowanie **REST API** (eng. Postman foundations: REST API testing)](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
-- [x] Udemy: [Praktyczny kurs testowania oprogramowania (eng. Practical Software Testing)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+- [x] Udemy: [Podstawy **manualnego testowania** oprogramowania (eng. Manual Testing Foundations)](https://www.udemy.com/certificate/UC-c4c4cb5f-fcd4-4707-acc5-76e137620232/)
+- [x] Udemy: [Kurs SQL od podstaw | **MySQL** (eng. SQL Foundations: MySQL)](https://www.udemy.com/certificate/UC-0b0b5c2b-611e-4b86-8923-5f9069b52aac/)
+- [x] Udemy: [Postman od podstaw - testowanie **REST API** (eng. Postman foundations: REST API testing)](https://www.udemy.com/certificate/UC-e0cdf022-8771-4fc2-8cc1-a303cae1ad9a/)
+- [x] Udemy: [Praktyczny kurs testowania oprogramowania (eng. Practical Software Testing)](https://www.udemy.com/certificate/UC-69b1ad1e-acbf-4884-bb08-b7416ab38ca9/)
 - [x] INCO Academy bootcamp: [SprintED - become a tester!](https://www.incopolska.org/zostan-testerka)
 - [x] INCO Academy training: [Get Into Tech](https://www.incopolska.org/get-into-tech)
 - [x] CODE:ME Tydzień programisty 2022: wykład ["Testowanie oprogramowania - od czego zacząć?"](https://tydzienprogramisty.pl/)
